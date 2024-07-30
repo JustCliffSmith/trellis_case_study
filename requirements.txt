@@ -1,0 +1,5 @@
+# Main packages used. To really be proper I should put versions on these.
+pandas
+scikit-learn
+seaborn
+fastapi
